@@ -1,3 +1,4 @@
 streamlit
 wget
 pyngrok
+plotly
